@@ -9,7 +9,11 @@ Este curriculum es el inicio de mi nueva vida como programadora. En el voy a mos
 - CSS
 
 ### Task
- - TODO Escribir la información necesaria.
- - TODO Darle estilos 
+ - ~~TODO Escribir la información necesaria.~~
+ - ~~TODO Darle estilos~~~
+
+### TODO
+
+- Hacerlo interactivo
  
 
