@@ -18,13 +18,10 @@
 
 html, body {
     width: auto;
-    height: auto;   
-}
-
-.body{
+    height: auto;  
     display: flex;
     flex-direction: row;
-    background-color: rgb(255, 247, 234);
+    background-color: rgb(255, 247, 234); 
 }
 
 .header-header{
@@ -122,11 +119,6 @@ h6 {
     border-bottom: 1px solid white;
     width: 90%;
     margin-bottom: 1rem;
-}
-
-.education__data li {
-    color: rgb(255, 247, 234);
-    font-size: 1.1rem;
 }
 
 .lenguages__container{
