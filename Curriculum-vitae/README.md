@@ -8,8 +8,3 @@ Este curriculum es el inicio de mi nueva vida como programadora. En el voy a mos
 - HTML5
 - CSS
 
-### Task
- - ~~TODO Escribir la información necesaria.~~
- - ~~TODO Darle estilos~~~
- 
-
