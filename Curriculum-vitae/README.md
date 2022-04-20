@@ -11,6 +11,5 @@ Este curriculum es el inicio de mi nueva vida como programadora. En el voy a mos
 ### Task
  - ~~TODO Escribir la información necesaria.~~
  - ~~TODO Darle estilos~~~
- -
  
 
