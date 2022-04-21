@@ -1,10 +1,10 @@
 # Curriculum-Vitae
-## Información
-
-Este curriculum es el inicio de mi nueva vida como programadora. En el voy a mostrar mi vida laboral, y estudiantil de una manera resumida. Y aquellas actitudes que creo importantes de destacar.
+Es una CV en formato "papel" hecho en código.
 
 ### Tecnologias
 
-- HTML5
-- CSS
+Las tecnologias utilizadas: HTML5 y CSS. 
+Hay un index.html que contiene toda la información que se ve en la web y por otro lado un style.css que posiciona y da estilo a la web.
+La siguiente versión del CV sera interactiva.
+
 
